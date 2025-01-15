@@ -1,7 +1,7 @@
 {
 	"modules": "all",
-	"specification": "/home/davide/restats-demo/petstore.json",
-	"dumpsDir": "/home/davide/restats-demo/dumps",
-	"reportsDir": "/home/davide/restats-demo/reports",
-	"dbPath": "/home/davide/restats-demo/database.sqlite"
+	"specification": "./example/petstore.json",
+	"dumpsDir": "./example/dumps",
+	"reportsDir": "./example/reports",
+	"dbPath": "./example/database.sqlite"
 }
